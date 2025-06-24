@@ -1,0 +1,54 @@
+[
+    {
+        "id": 1,
+        "Dia_BM": "D\u00eda bueno",
+        "Dormir": "cero o menos de 6hs",
+        "Detalle del dia": "En estos d\u00edas no hubo dolor de cabeza, golpes, dolor de estomago, tristeza constante. Comi, Dormi, fui productiva. En cuanto a los sentidos no fueron una molestia, pude realizar mis actividades sin dolor",
+        "Modalidad": "Presencial",
+        "Lugar": [
+            "Arenales",
+            [
+                "bs as",
+                "avellaneda",
+                "Edificio - fabrica recuperada "
+            ],
+            "Mucho eco en las aulas, luz inconsistente, ruidos de belgrano. Auriculares si o si, algo para las manos."
+        ],
+        "Fecha": "19-03-2025",
+        "Hora": "9:30",
+        "Cant. Pers. Conoc.": 30,
+        "Amix_apoyo": "Lo hice sola",
+        "queria_preg": "Si, queria ir al lugar",
+        "llegada_tiempo": "Llegar a tiempo",
+        "horas_estuve": "4:15",
+        "observacion_evento": "Termine abombada, con dolor de cabeza, no pude concentrarme en la clase. Era como tener a alguien apretando los sesos.",
+        "horas_bien": "2:0",
+        "obseracion_futura": "Pedir tiempos cada 1 hora de 15 minutos o lo necesario para no llegar a eso. O insonorizar estos lugares."
+    },
+    {
+        "id": 2,
+        "Dia_BM": "Dia malo",
+        "Dormir": "mas de 6hs",
+        "Detalle del dia": "En estos d\u00edas no hubo dolor de cabeza, golpes, dolor de estomago, tristeza constante. Comi, Dormi, fui productiva. En cuanto a los sentidos no fueron una molestia, pude realizar mis actividades sin dolor",
+        "Modalidad": "Presencial",
+        "Lugar": [
+            "Pi\u00f1eyro",
+            [
+                "bs as",
+                "avellaneda",
+                "Grandes Edificios - fabrica recuperada - Laberinto"
+            ],
+            "Mucho murmullo, luces estridentes, se siente feo en el tacto."
+        ],
+        "Fecha": "19-06-2025",
+        "Hora": "18:30",
+        "Cant. Pers. Conoc.": 25,
+        "Amix_apoyo": "Lo hice sola",
+        "queria_preg": "No queria pero deb\u00eda",
+        "llegada_tiempo": "Llegue temprano - mas de 30 minutos-",
+        "horas_estuve": "4:30",
+        "observacion_evento": "Tengo clases los dias jueves, es agotador, ya que vengo de un lugar (elongacion) y estyo bien con esa clase. El profe llega tarde y yo espero 30min de mas por las llegadas tarde profe. Y hay cosas que necesito otra forma para entender algunos ejercicios. Pero virtual me ddistrae ",
+        "horas_bien": "2:0",
+        "obseracion_futura": "Irme antes a las 20:30hs o en su defecto salir del aula, llevar menos cosas en la mochila."
+    }
+]
